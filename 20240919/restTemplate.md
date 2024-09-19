@@ -100,7 +100,7 @@
         - getForEntity: Get 요청 후, 응답을 ResponseEntity로 반환
         - getForObject: Get 요청 후, 응답을 원하는 객체로 반환
     - POST 방식
-        - postForEntity: Post 요청 후, 응다븡ㄹ ResponseEntity로 반환
+        - postForEntity: Post 요청 후, 응답을 ResponseEntity로 반환
         - postForObject: Post 요청 후, 응답을 원하는 객체로 반환
     - Put, Patch, Delete…
 
